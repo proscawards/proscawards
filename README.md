@@ -34,56 +34,56 @@
 <p align='center'>
   👩‍💻🚀Programming Languages & Frameworks<br/><br/>
   <!--web-->
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#php" style="text-decoration:none;">
+    <img id="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#html" style="text-decoration:none;">
+    <img id="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#css" style="text-decoration:none;">
+    <img id="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#jquery" style="text-decoration:none;">
+    <img id="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;cursor: default;"/>
+  <a href="#js" style="text-decoration:none;">
+    <img id="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#mysql" style="text-decoration:none;">
+    <img id="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
   <br/>
   
   <!--fyp-->
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#cpp" style="text-decoration:none;">
+    <img id="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#ue4" style="text-decoration:none;">
+    <img id="ue4" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="pointer-events: none;cursor: default;"/>
+  <a href="#firebase" style="text-decoration:none;">
+    <img id="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="pointer-events: none;cursor: default;"/>
   </a>
   <br/>
   
   <!--data mining-->
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#python" style="text-decoration:none;">
+    <img id="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#jupyter" style="text-decoration:none;">
+    <img id="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#anaconda" style="text-decoration:none;">
+    <img id="anaconda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
   <br/>
   
   <!--misc-->
-  <a href="#" style="text-decoration:none;"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#java" style="text-decoration:none;"> 
+    <img id="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#nodejs" style="text-decoration:none;">
+    <img id="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
 </p>
 
