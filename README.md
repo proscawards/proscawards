@@ -27,8 +27,8 @@
 
 <!--git stats-->
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=proscawards&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proscawards&show_icons=true&locale=en&layout=compact&theme=dark" width="350"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=proscawards&show_icons=true&count_private=true&theme=tokyonight" width="420"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proscawards&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"/></a>
 </p>
 
 <!--programming languages and frameworks-->
