@@ -33,7 +33,7 @@
 
 <!--programming languages and frameworks-->
 <p align='center'>
-  👩‍💻🚀Programming Languages & Frameworks<br/><br/>
+  <code>👩‍💻🚀 Programming Languages/Frameworks/Databases/Hosting</code><br/><br/>
   <!--web-->
   <a href="#" style="text-decoration:none;">
     <img id="php" src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;cursor: default;"/>
@@ -75,32 +75,86 @@
   <a href="#" style="text-decoration:none;">
     <img id="anaconda" src="https://img.shields.io/badge/anaconda-3EB049.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <br/>
   <!--misc-->
+  <a href="#" style="text-decoration:none;">
+    <img id="nodejs" src="https://img.shields.io/badge/Node.js-539E43?style=for-the-badge&logo=nodedotjs&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a>
+  <br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="bootstrap" src="https://img.shields.io/badge/Bootstrap-573B7E?style=for-the-badge&logo=bootstrap&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a>
   <a href="#" style="text-decoration:none;"> 
     <img id="java" src="https://img.shields.io/badge/Java-E06D08?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
-  <a href="#" style="text-decoration:none;">
-    <img id="nodejs" src="https://img.shields.io/badge/Node.js-539E43?style=for-the-badge&logo=node-dot-js&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="heroku" src="https://img.shields.io/badge/Heroku-6762A5?style=for-the-badge&logo=heroku&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="qt" src="https://img.shields.io/badge/QTCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="pointer-events: none;cursor: default;"/>
   </a>
   <br/>
 </p>
 
 <!--editing suites-->
 <p align='center'>
-  🎥Editing Suites<br/><br/>
+  <code>🎥 Editing Suites</code><br/><br/>
     <!--editing-->
   <a href="#" style="text-decoration:none;"> 
     <img id="photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-001D26?style=for-the-badge&logo=adobe-photoshop&logoColor=00C8FF" style="pointer-events: none;cursor: default;"/>
   </a>
   <a href="#" style="text-decoration:none;"> 
     <img id="afterEffect" src="https://img.shields.io/badge/Adobe_After_Effects-00005B?style=for-the-badge&logo=adobe-after-effects&logoColor=9A9AFF" style="pointer-events: none;cursor: default;"/>
-  </a><br/>
+  </a>
   <a href="#" style="text-decoration:none;"> 
     <img id="premiere" src="https://img.shields.io/badge/Adobe_Premiere_Pro-2A0034?style=for-the-badge&logo=adobe-premiere-pro&logoColor=EA77FF" style="pointer-events: none;cursor: default;"/>
   </a>
   <a href="#" style="text-decoration:none;"> 
     <img id="illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-241301?style=for-the-badge&logo=adobe-illustrator&logoColor=FF7900" style="pointer-events: none;cursor: default;"/>
+  </a>
+</p>
+
+<!--Projects Done-->
+<p align='center'>
+  <code>👨🏻‍💻 Projects Done (Newest to Oldest)</code><br/><br/>
+  <a href="https://github.com/proscawards/born-ecommerce" style="text-decoration:none;"> 
+    <img id="ecommerce" src="https://img.shields.io/badge/E%20Commerce_Website_(PHP, HTML, CSS, Javascript, JQuery, MySQL, Bootstrap)-6C93A2?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="https://drive.google.com/file/d/1Y4L4pfdXhG0GHVAwBlHGy5jYBtivDIcw/view?usp=sharing" style="text-decoration:none;"> 
+    <img id="chemistlab" src="https://img.shields.io/badge/An_Educational_Game_with_Learning_Analytics_Dashboard_(Unreal_Engine, Firebase)-A02025?style=for-the-badge&logo=unreal-engine&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="loanpredictor" src="https://img.shields.io/badge/Loan_Predictor_(Python, Anaconda, Jupyter)-277665?style=for-the-badge&logo=python&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="onlinestore" src="https://img.shields.io/badge/Online_Store_(PHP, HTML, CSS, Javascript, MySQL)-274F5F?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="antsvsbugs" src="https://img.shields.io/badge/Ants_vs._Bugs_(Java)-724EA7?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="ftbs" src="https://img.shields.io/badge/Flight_Ticket_Booking_System_(C++, QTCreator, MySQL)-3F9C82?style=for-the-badge&logo=qt&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="ufms" src="https://img.shields.io/badge/University_Facilities_Management_System_(C++, QTCreator, MySQL)-276821?style=for-the-badge&logo=qt&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="btbs" src="https://img.shields.io/badge/Bus_Ticket_Booking_System_(Python)-7C3333?style=for-the-badge&logo=python&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a>
+
+
+
+  </a>
+</p>
+
+<!--On-Going Projects-->
+<p align='center'>
+  <code>🔧 On-Going Projects</code><br/><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="qiqi" src="https://img.shields.io/badge/Qiqi_Bot_(Node.js, Javascript, Firebase, Heroku)-1D6EA1?style=for-the-badge&logo=nodedotjs&logoColor=white" style="pointer-events: none;cursor: default;"/>
+  </a><br/>
+  <a href="#" style="text-decoration:none;"> 
+    <img id="bao" src="https://img.shields.io/badge/Bao_Corporation_(Unreal Engine, Firebase)-CAD8DD?style=for-the-badge&logo=unreal-engine&logoColor=black" style="pointer-events: none;cursor: default;"/>
+  </a>
   </a>
 </p>
 
